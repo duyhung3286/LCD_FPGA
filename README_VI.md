@@ -4,12 +4,6 @@
 
 Project demo giao tiếp Verilog với LCD qua giao thức I2C
 
-## I. Tác giả
-
-- **Name:** Võ Nhật Trường
-- **Email:** truong92cdv@gmail.com
-- **GitHub:** [truong92cdv](https://github.com/truong92cdv)
-
 ## II. Kết quả demo
 
 ![demo_project](./images/demo_project.jpg)

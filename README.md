@@ -4,11 +4,6 @@
 
 A project demonstrating Verilog communication with an LCD via the I2C protocol.
 
-## I. Author
-
-- **Name:** Võ Nhật Trường
-- **Email:** truong92cdv@gmail.com
-- **GitHub:** [truong92cdv](https://github.com/truong92cdv)
 
 ## II. Result
 
