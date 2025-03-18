@@ -1,3 +1,4 @@
+//Author: Nguyen Duy Viet Hung
 module top(
     input           clk,
     input           rst_n,
